@@ -1,0 +1,1 @@
+https://dashboard.heroku.com/new?button-url=https://github.com/evelocode/cryptomasterbot&template=https://github.com/evelocode/cryptomasterbot
