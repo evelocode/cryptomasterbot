@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api')
 const token = '6749318599:AAHAAHDHH_k1Uniq16VmoxMnyTo6R5SC_vQ'
 const bot = new TelegramBot(token, { polling: true })
-
+console.log('✅ CONNECTED')
 bot.on('message', (msg) => {
   const chatId = msg.chat.id
   const messageText = msg.text
