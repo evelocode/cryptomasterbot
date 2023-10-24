@@ -1,6 +1,33 @@
 {
+  "name": "CryptoMaster-bot",
+  "version": "13.0",
+  "description": "EveloCode Production 2023 copyright.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "evelocode",
+    "telegram",
+    "2023",
+    "trading",
+    "binance",
+    "signal",
+    "bot"
+  ],
+  "author": "EveloCode",
+  "license": "ISC",
   "dependencies": {
     "axios": "^1.5.1",
     "node-telegram-bot-api": "^0.63.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prabhasha2006/RedDragon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prabhasha2006/RedDragon/issues"
+  },
+  "homepage": "https://github.com/prabhasha2006/RedDragon/#readme"
 }
