@@ -1,8 +1,8 @@
 {
-  "name": "Red-Dragon",
-  "description": "Red Dragon MD version code 13",
-  "repository": "https://github.com/xcodejet/reddragon13",
-  "logo": "https://i.ibb.co/N36LkTT/accont-tag-bot.jpg",
+  "name": "CryptoMaster-Bot",
+  "description": "Powered By evelocode",
+  "repository": "https://github.com/evelocode/cryptomasterbot",
+  "logo": "https://i.ibb.co/BBH2hJ9/20231024-083029.jpg",
   "keywords": ["nodejs", "bot", "trading", "telegram automation", "binance"],
   "buildpacks": [
     {
