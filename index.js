@@ -3,6 +3,7 @@ const token = '6749318599:AAHAAHDHH_k1Uniq16VmoxMnyTo6R5SC_vQ'
 const bot = new TelegramBot(token, { polling: true })
 console.log('✅ CONNECTED')
 bot.on('message', (msg) => {
+  console.log(msg)
   const chatId = msg.chat.id
   const messageText = msg.text
   const masterbot = -4007024924
